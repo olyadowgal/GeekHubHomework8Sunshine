@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:1-69:12
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:1-69:12
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:1-69:12
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:1-69:12
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/d472139c7061c74e2ba9f8b58b1dd5ad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/66f32027d5e60d1f333cbf8a042a1d9f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0.aar/5c14eca07f0b6de4ebad4f41795b48f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a039e02e97c9a7003d6e7e8d19328c13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/02d5bd2ee8b917835eef5f70e474d8cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3082d822a4f85effbf3045662e428f67/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/52ea5021eb386a71ec4cc832dc4d204d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4268fa1d502d61692bc63fdc4f921665/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/ea15a19648ab22cb9ef84250da621978/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/c44c45aee0b14a7e98f3ee97943fb2f1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/92202427aa25854ee3226215a5081fe9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1ffdda0889830d5a16887abb8a378cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/606dc0e5f72811fe63cf1d4c78050127/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9fe968e90e7cb4bc2f751b3f7bca756c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5bd19d1cc11c362db9d3f965c94fd895/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8479cf1c2e08a8fdff66eb1edfed72be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/295eb0d4bd822e3bd2be24b407c03b61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2b84e2218cc4dc628361f5392aa04861/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/986b45807448bbc752d2cb456e8843ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/de4d620d0eb359f20d4a0ebde9cd5e27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7df1031c900a21cab5c99fe8fe7e2e1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46189d7179b88fea5162483dcab19196/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d44a9f4380361eddf7be3dc7208883fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/203757f0e5c3084ad20b66515c8f606c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ae26e69202fd10e11fe929f923a00b5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/32bfb9d4366a83f7c4c4b47b611440be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f015a5b09577ea6f1d160855eb3e51b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8d31d0faaf275d2c5598df0c9b9be339/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7ffad94dbc7f68b0cb0a8c8a831d9e87/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/caef51bc740c7f48efb0cc806e30c402/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d1c20db26a79e0f093d299ba94278bde/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3db9ec457c2b8f23c67b467bbc430787/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1aaea1af67cab5868c192b527a1b7114/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:1-69:12
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:1-69:12
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:1-69:12
+	package
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:18:5-43
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:1-69:12
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:5-51
+	android:versionCode
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:1-69:12
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:21:22-64
+application
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:23:5-68:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3082d822a4f85effbf3045662e428f67/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3082d822a4f85effbf3045662e428f67/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support:support-v4:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/ea15a19648ab22cb9ef84250da621978/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/ea15a19648ab22cb9ef84250da621978/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/c44c45aee0b14a7e98f3ee97943fb2f1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/c44c45aee0b14a7e98f3ee97943fb2f1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46189d7179b88fea5162483dcab19196/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46189d7179b88fea5162483dcab19196/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/203757f0e5c3084ad20b66515c8f606c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/203757f0e5c3084ad20b66515c8f606c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46189d7179b88fea5162483dcab19196/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:29:9-48
+	android:icon
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:9-36:65
+	android:label
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-49
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:39:9-51:20
+	android:parentActivityName
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:42:13-63
+	android:label
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:41:13-58
+	android:theme
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:40:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:44:13-46:57
+	android:value
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:17-54
+	android:name
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:17-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:27-74
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:55:9-57:40
+	android:exported
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:56:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:60:9-66:19
+	android:exported
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:61:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:13-65:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:17-84
+	android:name
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:25-81
+uses-sdk
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/d472139c7061c74e2ba9f8b58b1dd5ad/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/d472139c7061c74e2ba9f8b58b1dd5ad/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/66f32027d5e60d1f333cbf8a042a1d9f/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/66f32027d5e60d1f333cbf8a042a1d9f/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0.aar/5c14eca07f0b6de4ebad4f41795b48f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0.aar/5c14eca07f0b6de4ebad4f41795b48f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a039e02e97c9a7003d6e7e8d19328c13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a039e02e97c9a7003d6e7e8d19328c13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/02d5bd2ee8b917835eef5f70e474d8cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/02d5bd2ee8b917835eef5f70e474d8cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3082d822a4f85effbf3045662e428f67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3082d822a4f85effbf3045662e428f67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/52ea5021eb386a71ec4cc832dc4d204d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/52ea5021eb386a71ec4cc832dc4d204d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4268fa1d502d61692bc63fdc4f921665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4268fa1d502d61692bc63fdc4f921665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/ea15a19648ab22cb9ef84250da621978/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/ea15a19648ab22cb9ef84250da621978/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/c44c45aee0b14a7e98f3ee97943fb2f1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/c44c45aee0b14a7e98f3ee97943fb2f1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/92202427aa25854ee3226215a5081fe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/92202427aa25854ee3226215a5081fe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1ffdda0889830d5a16887abb8a378cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1ffdda0889830d5a16887abb8a378cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/606dc0e5f72811fe63cf1d4c78050127/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/606dc0e5f72811fe63cf1d4c78050127/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9fe968e90e7cb4bc2f751b3f7bca756c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9fe968e90e7cb4bc2f751b3f7bca756c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5bd19d1cc11c362db9d3f965c94fd895/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5bd19d1cc11c362db9d3f965c94fd895/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8479cf1c2e08a8fdff66eb1edfed72be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8479cf1c2e08a8fdff66eb1edfed72be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/295eb0d4bd822e3bd2be24b407c03b61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/295eb0d4bd822e3bd2be24b407c03b61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2b84e2218cc4dc628361f5392aa04861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2b84e2218cc4dc628361f5392aa04861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/986b45807448bbc752d2cb456e8843ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/986b45807448bbc752d2cb456e8843ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/de4d620d0eb359f20d4a0ebde9cd5e27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/de4d620d0eb359f20d4a0ebde9cd5e27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7df1031c900a21cab5c99fe8fe7e2e1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7df1031c900a21cab5c99fe8fe7e2e1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46189d7179b88fea5162483dcab19196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46189d7179b88fea5162483dcab19196/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d44a9f4380361eddf7be3dc7208883fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d44a9f4380361eddf7be3dc7208883fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/203757f0e5c3084ad20b66515c8f606c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/203757f0e5c3084ad20b66515c8f606c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ae26e69202fd10e11fe929f923a00b5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ae26e69202fd10e11fe929f923a00b5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/32bfb9d4366a83f7c4c4b47b611440be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/32bfb9d4366a83f7c4c4b47b611440be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f015a5b09577ea6f1d160855eb3e51b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f015a5b09577ea6f1d160855eb3e51b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8d31d0faaf275d2c5598df0c9b9be339/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8d31d0faaf275d2c5598df0c9b9be339/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7ffad94dbc7f68b0cb0a8c8a831d9e87/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7ffad94dbc7f68b0cb0a8c8a831d9e87/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/caef51bc740c7f48efb0cc806e30c402/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/caef51bc740c7f48efb0cc806e30c402/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d1c20db26a79e0f093d299ba94278bde/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d1c20db26a79e0f093d299ba94278bde/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3db9ec457c2b8f23c67b467bbc430787/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3db9ec457c2b8f23c67b467bbc430787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1aaea1af67cab5868c192b527a1b7114/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1aaea1af67cab5868c192b527a1b7114/AndroidManifest.xml:20:5-44
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.0.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/ea15a19648ab22cb9ef84250da621978/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dowgalolya/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/dowgalolya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/809b55e5420a1cae62664de6bb53476e/AndroidManifest.xml:37:25-84
